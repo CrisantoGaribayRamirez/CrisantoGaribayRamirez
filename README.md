@@ -10,9 +10,9 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crisantogaribay&show_icons=true&locale=en&theme=dark" alt="crisantogaribay" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RamGar999&show_icons=true&locale=en&theme=dark" alt="crisantogaribay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crisantogaribay&theme=dark" alt="crisantogaribay" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamGar999&theme=dark" alt="crisantogaribay" /></p>
 
 <!--START_SECTION:waka-->
 
