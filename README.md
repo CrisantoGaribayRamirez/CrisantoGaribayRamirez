@@ -23,7 +23,7 @@
 
 > 🏆 9 Contributions in the Year 2022
  > 
-> 📦 174 Bytes Used in GitHub's Storage 
+> 📦 176 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,5 +93,5 @@ Java                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/RamGar999/RamGar999/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/08/2022 18:48:06 UTC
+ Last Updated on 15/08/2022 18:51:57 UTC
 <!--END_SECTION:waka-->
