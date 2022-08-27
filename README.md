@@ -15,19 +15,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamGar999&theme=dark" alt="crisantogaribay" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 9 Contributions in the Year 2022
+> 🏆 10 Contributions in the Year 2022
  > 
-> 📦 197 Bytes Used in GitHub's Storage 
+> 📦 200 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -60,24 +60,24 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     13 hrs 36 mins      ███████████████████████░░   94.12% 
-Solidity                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.21% 
-Solidity file            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47% 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+Java                     12 hrs 24 mins      ███████████████████████░░   94.41% 
+Solidity                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.46% 
+Solidity file            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72% 
+CLASS                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
 
 🔥 Editors: 
-IntelliJ                 14 hrs 27 mins      █████████████████████████   100.0%
+IntelliJ                 13 hrs 8 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-JavaDesignPatterns-master12 hrs 18 mins      █████████████████████░░░░   85.15% 
-designPatterns           1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-Blockchain-Course-Web3-DA40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.71% 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
-Crisanto-Garibay-Training7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+JavaDesignPatterns-master10 hrs 40 mins      ████████████████████░░░░░   81.16% 
+Crisanto-Garibay-Training1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
+Blockchain-Course-Web3-DA41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
+camel_course             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
 💻 Operating System: 
-Windows                  14 hrs 27 mins      █████████████████████████   100.0%
+Windows                  13 hrs 8 mins       █████████████████████████   100.0%
 
 ```
 
@@ -91,8 +91,8 @@ Java                     2 repos             ███████████�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/RamGar999/RamGar999/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/CrisantoGaribayRamirez/CrisantoGaribayRamirez/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2022 18:50:56 UTC
+ Last Updated on 27/08/2022 18:49:16 UTC
 <!--END_SECTION:waka-->
