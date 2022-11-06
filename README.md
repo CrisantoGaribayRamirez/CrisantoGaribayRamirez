@@ -15,7 +15,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamGar999&theme=dark" alt="crisantogaribay" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,7 +23,7 @@
 
 > 🏆 10 Contributions in the Year 2022
  > 
-> 📦 221 Bytes Used in GitHub's Storage 
+> 📦 224 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,5 +94,5 @@ Java                     2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CrisantoGaribayRamirez/CrisantoGaribayRamirez/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/11/2022 18:47:22 UTC
+ Last Updated on 06/11/2022 18:47:45 UTC
 <!--END_SECTION:waka-->
